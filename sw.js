@@ -45,6 +45,8 @@ workbox.routing.registerRoute(
   workbox.precaching.precacheAndRoute([
     //icon,ogp
     'TIME.ico',
+    'icon-192.png',
+    'icon-256.png',
     //css
     'style.css',
     'index.css',
