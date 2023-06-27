@@ -24,6 +24,16 @@
     <meta property="og:description" content="ブラウザで動くシンプルなデジタル時計">
     <meta property="og:image" content="./TIME.ico">
     <meta property="og:site_name" content="Clock v3">
+    <!-- ServiceWorker -->
+<script>
+	if ("serviceWorker" in navigator) {
+	window.addEventListener("load", function () {
+	navigator.serviceWorker.register("./sw.js").then(
+	function (registration) {/* Registration was successful*/console.log("ServiceWorker registration successful with scope: ",registration.scope);},
+	function (err) {/* registration failed :(*/console.log("ServiceWorker registration failed: ", err);});});
+	}
+</script>
+<link rel="manifest" href="https://pp-pixel.github.io/clock3/manifest.json">
     <!--Manifest-->
     <link rel="manifest" href="https://clock.shirokuma-lab.com/manifest.json">
     <link rel="canonical" href="https://clock.shirokuma-lab.com/">
