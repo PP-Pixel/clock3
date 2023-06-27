@@ -9,11 +9,11 @@
   "background_color"  : "#3b3b3b",
   "theme_color"       : "#3b3b3b",
   "icons": [{
-      "src"           : "https://pp-pixel.github.io/clock3/TIME.ico",
+      "src"           : "https://pp-pixel.github.io/clock3/icon-192.png",
       "sizes"         : "192x192",
       "type"          : "image/png"
     }, {
-      "src"           : "https://pp-pixel.github.io/clock/TIME.ico",
+      "src"           : "https://pp-pixel.github.io/clock/icon-256.png",
       "sizes"         : "256x256",
       "type"          : "image/png"
   }]
