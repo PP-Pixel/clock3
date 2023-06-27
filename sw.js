@@ -51,8 +51,6 @@ workbox.routing.registerRoute(
     //javaScript
     'js',
     'main.js',
-    'https://www.google.com/recaptcha/api.jp',
-    'https://www.google.com/recaptcha/enterprise.js?render=6LeoDWgmAAAAAGwPsVvUHB8UzQsZj-w6wxO_Ccxl'.
     //other
     'manifest.json',
    OFFLINE_PAGE,  
