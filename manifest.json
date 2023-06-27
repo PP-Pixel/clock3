@@ -3,7 +3,7 @@
   "short_name"        : "Clock3.io",
   "description"       : "Clock v3",
   "start_url"         : "https://pp-pixel.github.io/clock3/",
-  "id"         : "csclub",
+  "id"         : "clock3",
   "display_override": ["fullscreen"],
   "display"           : "standalone",
   "background_color"  : "#3b3b3b",
