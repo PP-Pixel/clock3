@@ -6,8 +6,8 @@
   "id"         : "clock3",
   "display_override": ["fullscreen"],
   "display"           : "standalone",
-  "background_color"  : "#3b3b3b",
-  "theme_color"       : "#3b3b3b",
+  "background_color"  : "#FFFFFF",
+  "theme_color"       : "#FFFFFF",
   "icons": [{
       "src"           : "https://pp-pixel.github.io/clock3/icon-192.png",
       "sizes"         : "192x192",
