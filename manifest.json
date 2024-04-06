@@ -1,6 +1,6 @@
 {
-  "name"              : "Clock3.io",
-  "short_name"        : "Clock3.io",
+  "name"              : "Clock3",
+  "short_name"        : "Clock3",
   "description"       : "Clock v3",
   "start_url"         : "https://pp-pixel.github.io/clock3/",
   "id"         : "clock3",
