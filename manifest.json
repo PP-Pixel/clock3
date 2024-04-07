@@ -1,7 +1,7 @@
 {
-  "name"              : "Clock3",
-  "short_name"        : "Clock3",
-  "description"       : "Clock v3",
+  "name"              : "Clock White",
+  "short_name"        : "Clock3(W)",
+  "description"       : "Clock v3 (White)",
   "start_url"         : "https://pp-pixel.github.io/clock3/",
   "id"         : "clock3",
   "display_override": ["fullscreen"],
